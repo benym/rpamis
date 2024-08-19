@@ -47,7 +47,7 @@
     <!-- Redis -->
     <redisson.version>3.17.0</redisson.version>
     <!-- Kafka -->
-    <kafka.version>2.7.8</kafka.version>
+    <kafka.version>3.2.3</kafka.version>
     <!-- 存储 -->
     <minio.version>7.0.2</minio.version>
     <mybatis-plus.version>3.3.2</mybatis-plus.version>
